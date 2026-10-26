@@ -18,13 +18,23 @@ body {
 header {
     background-color: #232F3E;
     color: white;
-    text-align: center;
     padding: 20px;
     font-size: 24px;
     font-weight: bold;
-    margin-bottom: 20px;
+    align-content: center;
+    align-items: center;
+}
+header>h1{
+    text-align: center;}
+p.G {
+    margin-right:470px;
+    margin-left:30px;
 }
 
+p.N {
+    position: right;
+    margin-left:530px;
+}
 /* Contenedor principal izquierda */
 div {
     display: inline-flex;
@@ -34,22 +44,20 @@ div {
     flex-direction: row;
     margin-top: 70px;
 }
-/* Ajustes tabla */
-table{
-    padding-top: 20px;
-    margin: 0 auto;
-    justify-content: center;
+div > div {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     align-items: center;
-    text-align: center;
-    border: 3px solid white;
-    border-collapse: collapse;
-}
-tr, td, th, thead, tbody{
     justify-content: center;
-    align-items: center;
+    padding: 20px;
+    margin: 10px;
+    gap: 10px;
+    width: 300px;
     text-align: center;
-    border: 3px solid black;
+    flex-direction: column;
 }
+
 /* Títulos de secciones */
 h2 {
     color: #007185;

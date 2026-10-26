@@ -41,6 +41,7 @@
         <div>
             <div>
                 <h2><i class="fa fa-github" style="font-size:40px; margin-right: 15px;"></i>5. Documentación</h2>
+                <h4><a href="doc/SGV_USED1.pdf">Documentación Servidor</a></h4>
             </div>
         </div>
         <footer>
