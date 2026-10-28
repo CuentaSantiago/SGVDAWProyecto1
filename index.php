@@ -15,7 +15,7 @@
     </head>
     <body>
         <header>
-            <h1><abbr title="Desarrollo de Aplicaciones Web">DAW</abbr></h1>
+            <h1><abbr title="Desarrollo de Aplicaciones Web">DAW</abbr></h1> 
         </header>
         <div>
             <div>
@@ -41,12 +41,13 @@
         <div>
             <div>
                 <h2><i class="fa fa-github" style="font-size:40px; margin-right: 15px;"></i>5. Documentación</h2>
-                <h4><a href="doc/SGV_USED1.pdf">Documentación Servidor</a></h4> 
+                <h4><a href="doc/SGV_USED1.pdf">Documentación Servidor</a></h4>
             </div>
         </div>
         <footer>
-            <p><time datetime="2026-09-14">2026-2027</time> IES LOS SAUCES. ©Todos los derechos reservados</p> 
-            <p>Santiago González Vicente. 14/09/2026</p> <a href="https://github.com/CuentaEducaSantiago?tab=repositories&type=source"  target="_blank" rel="noopener"><i class="fa fa-github" style="font-size:40px; margin-right: 15px;"></i></a>
+            <p><time datetime="2026-09-14">2026-2027</time> IES LOS SAUCES. ©Todos los derechos reservados</p>
+            <p>Santiago González Vicente. 14/09/2026</p> <a href="https://github.com/CuentaSantiago/SGVDAWProyecto1"  target="_blank" rel="noopener"><i class="fa fa-github" style="font-size:40px; margin-right: 15px;"></i></a>
+            <a href="../index.html"><i class="fa fa-home" style="font-size:40px; margin-right: 15px;"></i></a>
         </footer>
     </body>
 </html>
