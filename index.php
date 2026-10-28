@@ -45,7 +45,7 @@
             </div>
         </div>
         <footer>
-            <p><time datetime="2026-09-14">2026-2027</time> IES LOS SAUCES. ©Todos los derechos reservados</p>
+            <p><time datetime="2026-09-14">2026-2027</time> IES LOS SAUCES. ©Todos los derechos reservados </p>
             <p>Santiago González Vicente. 14/09/2026</p> <a href="https://github.com/CuentaSantiago/SGVDAWProyecto1"  target="_blank" rel="noopener"><i class="fa fa-github" style="font-size:40px; margin-right: 15px;"></i></a>
             <a href="../index.html"><i class="fa fa-home" style="font-size:40px; margin-right: 15px;"></i></a>
         </footer>
