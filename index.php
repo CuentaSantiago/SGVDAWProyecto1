@@ -15,7 +15,7 @@
     </head>
     <body>
         <header>
-            <h1><abbr title="Desarrollo de Aplicaciones Web">DAW</abbr></h1>
+            <h1><abbr title="Desarrollo de Aplicaciones Web">DAW</abbr></h1> 
         </header>
         <div>
             <div>
