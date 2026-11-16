@@ -1,7 +1,7 @@
 # 🖥️ Servidor Web
 ---
 ##### Fecha Creación: 15/09/2026
-##### Fecha Actualizada: 26/10/2026
+##### Fecha Actualizada: 16/11/2026
 ##### Ciclo formativo: DAW2
 ##### Alumno: Santiago González Vicente
 ---
