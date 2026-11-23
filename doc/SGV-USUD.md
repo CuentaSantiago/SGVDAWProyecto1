@@ -1,12 +1,17 @@
 # 🖥️ Servidor Web
 ---
 ##### Fecha Creación: 15/09/2026
-##### Fecha Actualizada: 16/11/2026
+##### Fecha Actualizada: 26/10/2026
 ##### Ciclo formativo: DAW2
 ##### Alumno: Santiago González Vicente
 ---
 #### 📑 Índice
-  - [📑 Índice](#-índice)
+- [🖥️ Servidor Web](#️-servidor-web)
+        - [Fecha Creación: 15/09/2026](#fecha-creación-15092026)
+        - [Fecha Actualizada: 26/10/2026](#fecha-actualizada-26102026)
+        - [Ciclo formativo: DAW2](#ciclo-formativo-daw2)
+        - [Alumno: Santiago González Vicente](#alumno-santiago-gonzález-vicente)
+      - [📑 Índice](#-índice)
   - [1. Instalación y configuración inicial](#1-instalación-y-configuración-inicial)
     - [1.1. Configuración de la máquina virtual](#11-configuración-de-la-máquina-virtual)
     - [1.2. Instalación de Ubuntu](#12-instalación-de-ubuntu)
